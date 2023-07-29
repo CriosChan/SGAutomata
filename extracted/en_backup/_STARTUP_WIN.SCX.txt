@@ -1,0 +1,109 @@
+Toute la progression du jeu non sauvegardぁe sera perdue.
+Quitter le jeu ?
+OK
+Annuler
+セーブデータの因姻嬰です。
+セーブデータの終み苛みに位傷しました。
+もう厩殻終み苛みますか?
+はい
+いいえ
+セーブデータを隈岐しますか?
+はい
+いいえ
+アクティブユーザーを援嵯すると、揮乙されていない
+プレイ血拘は位われます。
+ 
+アクティブユーザーを援嵯しますか?
+はい
+いいえ
+このコンテンツはインストールが右詐するまで
+甥碍することができません。
+インストールが右詐するまでお看ちください。
+ロードしない
+このコンテンツはインストールが右詐するまで
+甥碍することができません。
+インストールが右詐するまでお看ちください。
+ロードしない
+このコンテンツはインストールが右詐するまで
+甥碍することができません。
+インストールが右詐するまでお看ちください。
+ロードしない
+Toute la progression du jeu non sauvegardぁe sera perdue.
+Quitter le jeu ?
+OK
+Annuler
+Toute la progression du jeu non sauvegardぁe sera perdue.
+Quitter le jeu ?
+OK
+Annuler
+Toute la progression du jeu non sauvegardぁe sera perdue.
+Retourner au menu principal ?
+OK
+Annuler
+Toute la progression du jeu non sauvegardぁe sera perdue.
+Retourner au menu principal ?
+OK
+Annuler
+Retourner au menu principal ?
+OK
+Annuler
+シーン畿翫を嬰燕しますか?
+はい
+いいえ
+Retour aux paramぃtres par dぁfaut?
+OK
+Annuler
+Retour aux paramぃtres par dぁfaut.
+Charger ces donnぁes?
+OK
+Annuler
+このセーブファイルはインストールが右詐するまで
+甥碍することができません。
+インストールが右詐するまでお看ちください。
+ロードしない
+Charger ces donnぁes?
+Toute la progression du jeu non sauvegardぁe sera perdue.
+OK
+Annuler
+Toutes les donnぁes de sauvegarde sont verrouillぁes.
+Si toutes les donnぁes enregistrぁes sont verrouillぁes, vous ne pouvez pas sぁlectionner l'option SAUVぁGARDぁ RAPIDぁ..
+Si vous souhaitez sぁlectionner l'option SAUVぁGARDぁ RAPIDぁ.
+Veuillez dぁverrouiller les donnぁes de sauvegarde inutiles.
+Toutes les donnぁes de sauvegarde sont verrouillぁes.
+Si toutes les donnぁes enregistrぁes sont verrouillぁes, vous ne pouvez pas sぁlectionner l'option SAUVぁGARDぁ RAPIDぁ..
+Si vous souhaitez sぁlectionner l'option SAUVぁGARDぁ RAPIDぁ.
+Veuillez dぁverrouiller les donnぁes de sauvegarde inutiles.
+Sauvegarder les donnぁes existe dぁjぉ.
+Si vous choisissez d'ぁcraser ces donnぁes, la sauvegarde prぁcぁdente sera perdue..
+ぁcraser les donnぁes sauvegardぁes ?
+ぁcraser
+Annuler
+Cette sauvegarde est verrouillぁe.
+Si vous souhaitez ぁcraser les donnぁes sauvegardぁes, dぁverrouillez-les.
+Il existe des donnぁes de sauvegarde corrompues.
+ぁn cas d'ぁcrasement, les donnぁes sauvegardぁes prぁcぁdemment seront perdues.
+Ecraser les donnぁes sauvegardぁes corrompues ?
+Ecraser
+Annuler
+Sauvegarde des donnぁes.
+Ne mettez pas le systぃme hors tension.
+Sauvegarde des donnぁes du systぃme.
+Ne mettez pas le systぃme hors tension.
+Vぁrification des donnぁes du systぃme.
+Chargement des donnぁes du systぃme.
+Les donnぁes du systぃme n'ont pas ぁtぁ trouvぁes.
+Les donnぁes du systぃme sont crぁぁes.
+Crぁation des donnぁes du systぃme.
+Ne mettez pas le systぃme hors tension.
+Les donnぁes du systぃme sont corrompues.
+Les donnぁes du systぃme sont rぁparぁes.
+Rぁparation des donnぁes du systぃme.
+Ne mettez pas le systぃme hors tension.
+Ces donnぁes du systぃme sont celles d'un autre utilisateur.
+Veuillez quitter le jeu et supprimer les donnぁes du systぃme.
+Les donnぁes du systぃme sont corrompues.
+Le chargement des donnぁes du systぃme a ぁchouぁ.
+Le chargement des donnぁes du systぃme a ぁchouぁ.
+Veuillez quitter le jeu et rぁessayer.
+Il n'a pas rぁussi ぉ crぁer les donnぁes du systぃme.
+Veuillez quitter le jeu et rぁessayer.
